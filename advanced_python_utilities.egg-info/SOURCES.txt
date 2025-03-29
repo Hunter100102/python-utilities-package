@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+advanced_python_utilities.egg-info/PKG-INFO
+advanced_python_utilities.egg-info/SOURCES.txt
+advanced_python_utilities.egg-info/dependency_links.txt
+advanced_python_utilities.egg-info/entry_points.txt
+advanced_python_utilities.egg-info/requires.txt
+advanced_python_utilities.egg-info/top_level.txt

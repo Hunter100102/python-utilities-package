@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: advanced_python_utilities
+Version: 0.1
+Summary: Advanced Python utilities package with CLI
+Home-page: https://github.com/yourusername/advanced-python-utilities
+Author: willy Hundun
+Author-email: spc.cody.hunter@gmail.com
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: click
+Requires-Dist: rich
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
